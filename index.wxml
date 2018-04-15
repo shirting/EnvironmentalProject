@@ -1,0 +1,17 @@
+<view class="page" style="background:url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523447258786&di=86ea05e6db461639e9f07b4ddce12170&imgtype=0&src=http%3A%2F%2Fdown1.cnmo.com%2Fcnmo-app%2Fa207%2Flanmangyinghua.jpg');background-repeat:round">
+  <view class="page__hd">
+  </view>
+  <view class="page__hd">
+  </view>
+  <view class="page__hd">
+  </view>
+  <view class="page__bd page__bd_spacing">
+    <button bindtap="chooseimage" type="primary" plain="true">拍摄/选图</button>
+  </view>
+  <view class="page__hd">
+  </view>
+  <view class="page__hd">
+  </view>
+  <view class="page__hd">
+  </view>
+</view>
